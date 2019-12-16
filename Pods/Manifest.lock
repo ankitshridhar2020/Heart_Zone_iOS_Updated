@@ -1,0 +1,72 @@
+PODS:
+  - AAInfographics (4.0.0)
+  - Alamofire (4.9.0)
+  - Alamofire-SwiftyJSON (3.0.0):
+    - Alamofire (~> 4.5)
+    - SwiftyJSON (~> 4.0.0)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Cosmos (20.0.1)
+  - FSCalendar (2.8.0)
+  - IQKeyboardManagerSwift (6.5.1)
+  - ObjectMapper (3.5.1)
+  - ReachabilitySwift (3)
+  - SDWebImage (5.2.2):
+    - SDWebImage/Core (= 5.2.2)
+  - SDWebImage/Core (5.2.2)
+  - SideMenu (6.4.3)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (4.0.0)
+  - Toaster (2.2.0)
+
+DEPENDENCIES:
+  - AAInfographics
+  - Alamofire
+  - Alamofire-SwiftyJSON
+  - AlamofireObjectMapper
+  - Cosmos
+  - FSCalendar
+  - IQKeyboardManagerSwift
+  - ReachabilitySwift (~> 3)
+  - SDWebImage
+  - SideMenu
+  - SVProgressHUD
+  - Toaster
+
+SPEC REPOS:
+  trunk:
+    - AAInfographics
+    - Alamofire
+    - Alamofire-SwiftyJSON
+    - AlamofireObjectMapper
+    - Cosmos
+    - FSCalendar
+    - IQKeyboardManagerSwift
+    - ObjectMapper
+    - ReachabilitySwift
+    - SDWebImage
+    - SideMenu
+    - SVProgressHUD
+    - SwiftyJSON
+    - Toaster
+
+SPEC CHECKSUMS:
+  AAInfographics: bbeed03caece4ee3b5e557d734967394e9bcdb11
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  Alamofire-SwiftyJSON: 2b3649d57dc7bb2880fb8b86f8bb969397666916
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  Cosmos: b47fddf2102bb48580cd3025d9ce0a5c658a65da
+  FSCalendar: 3a5ed3636e2ba1b83ebebfcf0c2603105a6f5efe
+  IQKeyboardManagerSwift: 9ac7524fad9f9fe9a3b98c927e7772471ca546d2
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SDWebImage: 5fcdb02cc35e05fc35791ec514b191d27189f872
+  SideMenu: 6540fa7a055b3728c006cec7d97e3a38cdac4874
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  Toaster: c1a81b376edcc2470157b4d1ee1e9341d3b96455
+
+PODFILE CHECKSUM: ce3746212a374233a00cbf89e4ae544969a443a9
+
+COCOAPODS: 1.8.1
